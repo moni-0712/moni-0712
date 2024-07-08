@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monisha Mukherjee</h1>
 <h3 align="center">A passionate Machine Learning Learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/8EJjbfpyWnxP15UY8">
 
 - 🔭 I’m currently working on **Gen AI**
 
