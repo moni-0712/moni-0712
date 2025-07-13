@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gen AI**
 
-- 🌱 I’m currently learning **Gen AI, Flask, tensorflow, pytorch, keras**
+- 🌱 I’m currently learning **Data Analysis, Gen AI, Flask, tensorflow, pytorch, keras**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moni-0712](https://github.com/moni-0712)
 
