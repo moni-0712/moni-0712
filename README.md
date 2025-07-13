@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monisha Mukherjee</h1>
-<h3 align="center">A passionate Machine Learning Learner from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **Gen AI**
 
